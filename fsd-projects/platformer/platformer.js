@@ -53,8 +53,8 @@ createCollectable('database', 475, 300, 0.5, 0.7);
 createCannon("top",850,2000);
 createCannon("left",480,2000);
 createCannon("right",320,2000);
-createCannon('bottom', 600, 1000);
-createCannon('right', 600, 1000);  
+createCannon('bottom', 600, 2000);
+createCannon('top', 600, 000);  
 
 //////////////////////////////////
 // ONLY CHANGE ABOVE THIS POINT //
